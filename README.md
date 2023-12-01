@@ -144,7 +144,7 @@ Follow these steps to deploy your microservice application:
 1. Clone the code from this repository.
  Clone the repository.
    ```sh
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Mohamed-Tharwat-El-Sayed/microservices-python-app.git
 
 2. Set the cluster context:
    ```
@@ -162,7 +162,7 @@ helm install mongo .
 ```
 
 Connect to the MongoDB instance using:
-you can get nodeip form your instance in you node.
+you can get nodeip form your instance in your node.
 
 ```
 mongosh mongodb://<username>:<pwd>@<nodeip>:30005/mp3s?authSource=admin
