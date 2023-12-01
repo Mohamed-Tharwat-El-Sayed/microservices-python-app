@@ -10,4 +10,12 @@ COPY . /app
 
 EXPOSE 5000
 
+# # Define environment variable
+# ENV DATABASE_HOST your_database_host
+# ENV DATABASE_NAME your_database_name
+# ENV DATABASE_USER your_database_user
+# ENV DATABASE_PASSWORD your_database_password
+# ENV AUTH_TABLE your_auth_table
+# ENV JWT_SECRET your_jwt_secret
+
 CMD ["python", "server.py"]
