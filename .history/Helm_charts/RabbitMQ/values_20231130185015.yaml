@@ -1,7 +1,0 @@
-service:
-  name: rabbitmq
-  port: 15672          
-  nodeport: 30004
-
-container:
-  image: rabbitmq:3-management      
