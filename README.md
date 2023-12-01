@@ -1,6 +1,6 @@
 # Devops Project: video-converter
-         Converting mp4 videos to mp3 audio in a microservices architecture.
-         Deploying a Python-based Microservice Application on AWS EKS.
+**Converting mp4 videos to mp3 audio in a microservices architecture,
+deploying a Python-based Microservice Application on AWS EKS**
        
 ## Table of Contents:
 1. Architecture
